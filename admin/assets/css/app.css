@@ -2073,7 +2073,7 @@ body{
     background-color:rgba(65,77,95,.9)
 }
 .dd-list .dd-item .dd-handle{
-    background:#f1f5f7;
+    background:#505050;
     border:none;
     padding:8px 16px;
     height:auto;
@@ -2081,7 +2081,7 @@ body{
     border-radius:3px
 }
 .dd-list .dd-item .dd-handle:hover{
-    color:#5089de
+    color:#e64212
 }
 .dd-list .dd-item button{
     padding-top:0px !important;
@@ -2103,7 +2103,7 @@ body{
     height:auto;
     border:none;
     padding:8px 16px 8px 46px;
-    background:#f1f5f7;
+    background:#505050;
     font-weight:600
 }
 .dd-list .dd-item .dd-collapse, .dd-list .dd-item .dd-expand{
@@ -2115,7 +2115,7 @@ body{
 }
 
 .dd-list .dd3-content:hover{
-    color:#5089de
+    color:#e64212
 }
 .dd-list .dd3-handle:before{
     content:"\F35C";
