@@ -273,7 +273,8 @@ body{
         float:none
     }
     #topnav .navigation-menu>li>a{
-        color:#414d5f;
+        color:#fff;
+        background-color: #303030;
         padding:15px
     }
     #topnav .navigation-menu>li>a i{
@@ -287,6 +288,7 @@ body{
         right:15px
     }
     #topnav .navigation-menu>li .submenu{
+        background-color: #303030;
         display:none;
         list-style:none;
         padding-left:20px;
@@ -299,7 +301,7 @@ body{
         color:#fff
     }
     #topnav .navigation-menu>li .submenu li a:hover{
-        color:#e64212
+        color: #e64212
     }
     #topnav .navigation-menu>li .submenu.open{
         display:block
@@ -316,13 +318,13 @@ body{
         padding-left:0
     }
     #topnav .navigation-menu>li.has-submenu.open>a{
-        color:#5f0cd8
+        color: #e64212
     }
     #topnav .has-submenu.active a{
-        color:#5f0cd8
+        color: #e64212
     }
     #topnav .has-submenu.active .submenu li.active>a{
-        color:#5f0cd8
+        color: #e64212
     }
     #topnav .arrow-down:after{
         right:15px;
